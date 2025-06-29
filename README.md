@@ -1,4 +1,4 @@
-This file contains the meta ai official python code .
+metaaiapi.py file contains the meta ai official python code .
 
 This code does not need the api key
 Just downloaded the dependencie that follows . 
