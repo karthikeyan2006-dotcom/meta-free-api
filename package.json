@@ -1,0 +1,18 @@
+{
+  "name": "meta-ai-chatbot",
+  "version": "1.0.0",
+  "description": "Web interface for Meta AI chatbot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.0"
+  },
+  "keywords": ["meta-ai", "chatbot", "web-interface"],
+  "author": "Karthikeyan",
+  "license": "MIT"
+}
